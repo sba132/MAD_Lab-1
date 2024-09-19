@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAD Lab-1</string>
+    <string name="education">Education</string>
+    <string name="sport">Sport</string>
+    <string name="game">Game</string>
+    <string name="code_ui">How to code this UI?</string>
+    <string name="example_linearlayout">Example on UI Exercise - LinearLayout</string>
+</resources>
